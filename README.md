@@ -1,6 +1,7 @@
 # Lab2b_Part1: Yuchen Wang Worked with Katrina Ji
 
-### Teammate: Yuchen Wang
+### Teammate: Yuchen Wang, Katrina Ji
+
 ---
 # GIF of this part
 
